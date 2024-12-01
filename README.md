@@ -5,3 +5,6 @@ Downlaod task.py and run using this command: python3 task.py
 Otherwise do this first:
 https://wiki.python.org/moin/BeginnersGuide/Download
 
+Otherwise, try using this trinket embed:
+https://mmvs-79.github.io/python_rock_paper_scissors/
+
